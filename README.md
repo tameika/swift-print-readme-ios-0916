@@ -39,7 +39,7 @@ However, a playground also allows you to see what would be printed to your scree
 
 ![Show the debug area](http://i.imgur.com/rZh8PH5.png)
 
-Clicking that arrow will reveal the "Debug area", which is what Xcode calls the part of the playground file that shows your program's output.
+Clicking that arrow will reveal the "Debug area", which is what Xcode calls the part of the playground file that shows your program's output. (If you don't see the arrow, then in the top menu, go to "View," then go to "Debug Area," and then click on "Activate Console.")
 
 Now you can show the results of printing out the variables you just created.
 
